@@ -9,10 +9,11 @@
 }
 .title {
   font-size: 42px;
-  font-family: "Comic Sans MS";
+  font-family: "Times New Roman";
   text-align: center;
 }
 .bodytext {
+  font-family: "Times New Roman";
   text-align: center;
   font-size: 18px;
 }
