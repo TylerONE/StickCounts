@@ -9,6 +9,10 @@
 }
 .title {
   font-size: 42px;
-  font-style: "Comic Sans MS";
+  font-family: "Comic Sans MS";
   text-align: center;
+}
+.bodytext {
+  text-align: center;
+  font-size: 18px;
 }
