@@ -63,7 +63,7 @@
       top: 0px;
       right: 0px;
       left: 0px;
-      background-color: #9a6632;
+      background-color: #990000;
       }
 	
     header nav  ul {
@@ -77,7 +77,7 @@
 	
     header nav  ul  li  .navtext {
       font-size: 16px;
-      color: #e60000;
+      color: #ffffff;
       text-align: center;
       padding: 25px 30px;
       text-decoration: none;
@@ -88,12 +88,12 @@
       }
 	
     header nav  ul  li  a:hover {
-      background-color: #4d4d4d;
+      background-color: #b30000;
       }
 	
     header nav  ul  li  .active {
-      background-color: #4d4d4d;
-      color: #e60000;	
+      background-color: #b30000;
+      color: #ffffff;	
       font-size: 16;	
       padding: 25px 30px;
       text-decoration: none;	  
