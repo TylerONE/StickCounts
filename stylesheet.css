@@ -19,11 +19,6 @@
   font-size: 18px;
   color: white;
 }
-#info{
-	font-size: 18px;
-	color:red;
-	font-family: "Times New Roman";
-}
 #bg {
   position: fixed; 
   top: -50%; 
